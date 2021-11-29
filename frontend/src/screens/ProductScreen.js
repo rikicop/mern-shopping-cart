@@ -1,7 +1,7 @@
 import "./ProductScreen.css";
 
-function ProductScreen() {
+const ProductScreen = () => {
   return <div className="productscreen"> Product </div>;
-}
+};
 
 export default ProductScreen;
