@@ -21,7 +21,7 @@ const Navbar = () => {
           <Link to="/">Shop</Link>
         </li>
       </ul>
-      <div className="hamburger__menu">
+      <div className="hamburger__menu" onClick={}>
         <div></div>
         <div></div>
         <div></div>
